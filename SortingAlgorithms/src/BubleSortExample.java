@@ -37,7 +37,7 @@ public class BubleSortExample {
 		for(int k = 0; k < a.length; k++){
 			System.out.print(a[k]+",");
 		}
-		System.out.println("Hi" );
+		System.out.println("Hi  " );
 	}
 
 }
